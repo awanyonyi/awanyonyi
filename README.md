@@ -13,7 +13,6 @@ Welcome to my GitHub! I’m a passionate software engineer, Django & Node.js ent
 
 - [📚 Quick Read School Library](https://github.com/awanyonyi/quick-read-school-library): Smart library management for schools—making reading easy and accessible.
 - [📘 Library MIS](https://github.com/awanyonyi/library-mis): Comprehensive Library Management Information System.
-- [🏢 Business Innovation Transformation Center](https://github.com/awanyonyi/business-innovation-transformation-center): Tools and resources for innovation and digital transformation.
 - [🌍 Maryland](https://github.com/awanyonyi/Maryland): Community and environmental impact platform.
 - [🚗 EMCHANIC](https://github.com/awanyonyi/EMCHANIC): Modern solutions for automotive service management.
 
@@ -31,8 +30,8 @@ Welcome to my GitHub! I’m a passionate software engineer, Django & Node.js ent
 ## 📫 Let's Connect
 
 - LinkedIn: [Allan Wanyonyi](https://www.linkedin.com/in/allan-wanyonyi/) <!-- Update to correct LinkedIn if needed -->
-- Twitter/X: [@awanyonyi_](https://twitter.com/awanyonyi_)
-- Email: allanwanyonyi.dev@gmail.com <!-- Update to correct email if needed -->
+- Twitter/X: [@allanwanyonyi_](https://twitter.com/awanyonyi_)
+- Email: allanwanyonyi5895@gmail.com <!-- Update to correct email if needed -->
 
 ---
 
