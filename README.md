@@ -1,17 +1,17 @@
-# Hi, I'm Allan Wanyonyi
+# Allan Wanyonyi
 
 ### Software Engineer | Backend & Web Applications
 
-I design and build reliable web applications and backend services with a practical, problem-solving mindset. My work centers on Python, Django, JavaScript, and Node.js, with a focus on creating scalable systems that solve real-world business problems.
+I build practical, scalable web applications and backend systems that solve real-world problems. My work focuses on Python, Django, JavaScript, and Node.js, with a strong interest in API design, maintainable architecture, and product-oriented development.
 
 ## About Me
 
-- Backend-focused software engineer building business and web applications
-- Interested in API development, system design, and maintainable software architecture
-- Experienced with Django, Node.js, databases, and full-stack development workflows
-- Continuously learning and improving through hands-on product development
+- Software engineer focused on backend development and web applications
+- Experienced in building management systems, business tools, and digital solutions
+- Interested in clean architecture, database design, and reliable application workflows
+- Continuously learning and improving through hands-on project development
 
-## Tech Stack
+## Core Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -26,17 +26,17 @@ I design and build reliable web applications and backend services with a practic
 
 ## Featured Projects
 
-- [Quick Read School Library](https://github.com/awanyonyi/quick-read-school-library) — School library management application focused on access, tracking, and efficiency.
-- [Library MIS](https://github.com/awanyonyi/library-mis) — A digital library management information system.
-- [PMIS](https://github.com/awanyonyi/PMIS) — Prison management information system designed for operational workflows.
+- [Quick Read School Library](https://github.com/awanyonyi/quick-read-school-library) — School library management application focused on accessibility, tracking, and efficient operations.
+- [Library MIS](https://github.com/awanyonyi/library-mis) — Digital library management information system for organizing library services.
+- [PMIS](https://github.com/awanyonyi/PMIS) — Prison management information system built for operational workflows and record management.
 - [Maryland](https://github.com/awanyonyi/Maryland) — Community and environmental impact platform.
 - [EMCHANIC](https://github.com/awanyonyi/EMCHANIC) — Automotive service management solution.
 
 ## Current Focus
 
-- Backend engineering and API design
-- Database design and optimization
-- Building maintainable web applications and systems
+- Backend engineering and API development
+- Database design and system optimization
+- Building maintainable web applications and internal tools
 - Growing in software architecture and scalable product development
 
 ## Connect
@@ -45,4 +45,4 @@ I design and build reliable web applications and backend services with a practic
 - [X / Twitter](https://twitter.com/awanyonyi_)
 - [Email](mailto:allanwanyonyi5895@gmail.com)
 
-I’m open to collaboration on meaningful projects and opportunities to build impactful software.
+Open to collaboration on meaningful projects and opportunities to build impactful software.
